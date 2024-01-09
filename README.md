@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pourghadirihossein" alt="pourghadirihossein" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/hpourghadiri" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/hpourghadiri?logo=twitter&style=for-the-badge" alt="https://twitter.com/hpourghadiri" /></a> </p>
+<p align="left"> <a href="https://twitter.com/hpourghadiri" target="blank"><img src="https://img.shields.io/twitter/follow/hpourghadiri?logo=twitter&style=for-the-badge" alt="https://twitter.com/hpourghadiri" /></a> </p>
 
 - 🌱 I’m currently learning **Laravel, Vue, React, and JavaScript frameworks**
 
